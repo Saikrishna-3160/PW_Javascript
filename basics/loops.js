@@ -104,7 +104,7 @@ for(let b=1; b<=10; b++){
 //use cases of for loop: if number of iterations are fixed
 //1. dropdown with fixed values: month, day, year, country, state
 //2. exce/csv file: 1 to 10 rows
-//3. Array/List : 1 to10
+//3. Array/List : 1 to 10
 //4. flight/movie/bus booking: seats: 120 : 0 to 119
 //5. Menu Items/Category:
 
@@ -140,5 +140,3 @@ do{
 //check the element in the beginning itself -at least once
 //if the element not present: then you start the loop
 //if the element is present: click on element and break
-
-
